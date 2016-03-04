@@ -1,6 +1,6 @@
+###Modelling the interplay between Notch and EMT
 Codes written by Marcelo Boareto (marceloboareto at gmail)
 
-###Modelling the interplay between Notch and EMT
 
 Codes for 1 cell simulations:
 
