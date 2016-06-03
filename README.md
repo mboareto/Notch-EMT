@@ -1,21 +1,30 @@
-###Modelling the interplay between Notch and EMT
 Codes written by Marcelo Boareto (marceloboareto at gmail)
 
+####Paper reference:
 
+http://rsif.royalsocietypublishing.org/content/13/118/20151106
 
-Codes for 1 cell simulations:
+## Notch-Jagged signalling can give rise to clusters of cells exhibiting a hybrid epithelial/mesenchymal phenotype
 
-https://github.com/mboareto/Notch-EMT/blob/master/EMTNotch_1cell.ipynb
-
-
-
-Codes for 2D simulations:
-
-https://github.com/mboareto/Notch-EMT/blob/master/NotchEMT_2Dsimulations.ipynb
+######Marcelo Boareto, Mohit Kumar Jolly, Aaron Goldman, Mika Pietilä, Sendurai A. Mani, Shiladitya Sengupta, Eshel Ben-Jacob, Herbert Levine, Jose’ N. Onuchic
 
 
 
-Auxilary functions and stardard parameter values and equations:
 
-https://github.com/mboareto/Notch-EMT/blob/master/NotchEMT_auxfunctions.py
+1 Cell simullations:
+
+https://github.com/mboareto/Notch_EMT_JRSocInterface2016/blob/master/EMTNotch_1cell.ipynb
+
+
+
+Tissue simulations:
+
+https://github.com/mboareto/Notch_EMT_JRSocInterface2016/blob/master/NotchEMT_2Dsimulations.ipynb
+
+
+
+auxilary functions:
+
+https://github.com/mboareto/Notch_EMT_JRSocInterface2016/blob/master/auxilary_functions.py
+
 
